@@ -1,0 +1,9 @@
+{
+    "domain": "enhanced_generic_thermostat",
+    "name": "Enhanced Generic Thermostat",
+    "version": "1.0.0",
+    "documentation": "https://github.com/carlymarie/HVAC-Controller",
+    "dependencies": ["sensor", "switch"],
+    "codeowners": ["@carlymarie"],
+    "iot_class": "local_polling"
+}
